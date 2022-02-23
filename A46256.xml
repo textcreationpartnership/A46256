@@ -1,0 +1,1145 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>London's royal triumph for the city's loyal magistrate in an exact description of several scenes and pageants, adorned with magnificent representations, performed on Wednesday, October XXIX at the installation and inauguration of the Right Honourable Sir James Smith, Knight, Lord Mayor of the city of London ... / devised and composed by Tho. Jordan ...</title>
+            <author>Jordan, Thomas, 1612?-1685?</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1684</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 50 KB of XML-encoded text transcribed from 11 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A46256</idno>
+            <idno type="STC">Wing J1041</idno>
+            <idno type="STC">ESTC R1960</idno>
+            <idno type="EEBO-CITATION">12576572</idno>
+            <idno type="OCLC">ocm 12576572</idno>
+            <idno type="VID">63598</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A46256)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 63598)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 962:36)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>London's royal triumph for the city's loyal magistrate in an exact description of several scenes and pageants, adorned with magnificent representations, performed on Wednesday, October XXIX at the installation and inauguration of the Right Honourable Sir James Smith, Knight, Lord Mayor of the city of London ... / devised and composed by Tho. Jordan ...</title>
+                  <author>Jordan, Thomas, 1612?-1685?</author>
+                  <author>Smythe, James, Sir, 1642-1706.</author>
+               </titleStmt>
+               <extent>[4], 16 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for John and Henry Playford,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1684.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Bodleian Library.</note>
+                  <note>Advertisement: p. [2]</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>London (England) --  History --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-11</date>
+            <label>Ali Jakobson</label>Sampled and proofread</change>
+         <change>
+            <date>2011-11</date>
+            <label>Ali Jakobson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:63598:1"/>
+            <pb facs="tcp:63598:1" rendition="simple:additions"/>
+            <p>
+               <hi>London's Royal Triumph</hi> FOR THE CITY'S Loyal MAGISTRATE: <hi>In an Exact Deſcription of ſeveral Scenes</hi> and <hi>Pageants,</hi> Adorned with many Magnificent Repreſentations.</p>
+            <p>
+               <hi>PERFORMED</hi> On <hi>WEDNESDAY,</hi> OCTOBER XXIX. 1684.</p>
+            <p>At the Inſtalment and Inauguration of the Right Honourable Sir <hi>JAMES SMITH,</hi> Knight, LORD MAYOR of the City of LONDON.</p>
+            <p>Illuſtrated with divers Delightful Objects of Gallantry and Jol<g ref="char:EOLhyphen"/>lity, Speeches and Songs, Single and in Parts.</p>
+            <p>Set forth at the proper Coſts and Charges of the Worſhipful Company of <hi>DRAPERS.</hi>
+            </p>
+            <p>Deviſed and Compoſed by <hi>THO. JORDAN,</hi> Gent.</p>
+            <q>Quando magis dignos licui ſpectare Triumphos?</q>
+            <figure>
+               <q>UNTO GOD ONLY BE HONOUR &amp; GLORY</q>
+               <figDesc>coat of arms of the Worshipful Company of Drapers</figDesc>
+            </figure>
+            <p>
+               <hi>London,</hi> Printed for <hi>John</hi> and <hi>Henry Playford,</hi> 1684.</p>
+         </div>
+         <div type="publishers_advertisement">
+            <pb facs="tcp:63598:2"/>
+            <head>ADVERTISEMENT.</head>
+            <p>THE <hi>Theater of Muſic:</hi> Or, A Choice Collection of the neweſt and beſt SONGS Sung at the Court, and Pub<g ref="char:EOLhyphen"/>lic Theaters. The <hi>Words</hi> Compoſed by the moſt Inge<g ref="char:EOLhyphen"/>nious <hi>Wits</hi> of the Age, and ſet to Muſic by the greateſt Maſters in that Science. With a Thorow-Baſs to each <hi>Song</hi> for the Theorbo, or Baſs-Viol. Alſo <hi>Symphonies</hi> and <hi>Retornels</hi> in Three Parts to ſeveral of them for the <hi>Violins</hi> and <hi>Flutes.</hi> The Firſt Book. <hi>London,</hi> Printed by <hi>J. Playford,</hi> for <hi>Henry Playford</hi> and <hi>R.C.</hi> and Sold by <hi>John Playford</hi> near the <hi>Temple</hi> Church, and <hi>John Carr</hi> at the <hi>Middle-Temple</hi> Gate, 1685.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:63598:2" rendition="simple:additions"/>
+            <head>
+               <hi>TO THE RIGHT HONOVRABLE Sir</hi> JAMES SMITH, <hi>Knight,</hi> Lord Mayor <hi>of the City of</hi> LONDON.</head>
+            <opener>
+               <salute>My Lord,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">T</seg>Hat Goodneſs hath been the guide to your Greatneſs is ſufficiently ſignificant, in all the civil circumſtances of your gradual Aſcention to the Seat of Dignity; actuated by the re<g ref="char:EOLhyphen"/>gular motions of Law, Loyalty, and Equity, (Three Graces which copiouſly conduce to the accompliſhments of a compleat Ma<g ref="char:EOLhyphen"/>giſtrate) and by general inſpection are diſcovered to be habitual in your Lordſhip. This is an Age my Lord, that will try whe<g ref="char:EOLhyphen"/>ther you have Fortitude enough to be faithful, Courage enough to be Honeſt, and Judgment ſufficient to avoid extremities. In your Time <hi>Sir,</hi>
+               <note place="margin">
+                  <hi>Your Creat Grandfather, Grandfather and Father. All Free of the</hi> Drapers <hi>Company.</hi>
+               </note> there have been more ſudden turns and numerous changes than your fore-Fathers have experienced in the Three Genera<g ref="char:EOLhyphen"/>tions of your Family that have ſucceſſively paſſed before you Members of the Company, which is a pregnant Lecture for your underſtanding, and exercitation for your judgment, wherein your wary obſervations may collect ready Rules for your Reaſon to work upon, and ſo guide you in this Years Government, that it may render you precious to all poſte<g ref="char:EOLhyphen"/>rity; anſwerable to the devout deſires and daily Obſecrations of</p>
+            <closer>
+               <salute>My Lord,</salute>
+               <signed>
+                  <hi>Your Obliged obedient Servant</hi> Tho. Jordan</signed>
+            </closer>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:63598:3" rendition="simple:additions"/>
+            <head>
+               <hi>TO THE Truly Worthy, Generous, and Ancient Society</hi> The Right Worſhipful Company of <hi>DRAPERS.</hi>
+            </head>
+            <opener>
+               <salute>Gentlemen,</salute>
+            </opener>
+            <p>
+               <hi>
+                  <seg rend="decorInit">I</seg>
+               </hi> Salute you with the perfected Compoſitions of your Triumphs, Performed to perpetuate the Memory and indelible Fame of your Right Honourable Brother the <hi>Lord Mayor</hi> of <hi>London;</hi> in which I have omitted nothing that may reaſo<g ref="char:EOLhyphen"/>na<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ly conduce to his Honour, or what might be thought Regular, pertinent and proper to the Magnificence and Splendor of this Days Ovation; wherein you have liberally laid out your ſelves in the expenſes of ſo chargable Accomoda<g ref="char:EOLhyphen"/>tions; plentifully exhibiting the ſuperfluous part of your Subſtance for a Show. Yet ſince it is no difficult thing to prove that a Theater is an Epitomy of the whole World, by the ſame Rule of Reaſon we may conclude that the glittering part of this whole City is but one great Pageant conſiſting of Streamer-like Ribons, gay Gold and Silver Laces and Royal Embroidery, which although it be thought ſuperfluous in the moroſs opinion of an Auſtere <hi>Stoic,</hi> yet it is accounted National Glory and Badges of Proſperity in the eyes of Perſons Heroick: For it doth in ſome meaſure, match with Coronations, Chariots of Victory, and Triumphs of <gap reason="illegible" resp="#MURP" extent="4 letters">
+                  <desc>••••</desc>
+               </gap>quility: The Authors of ſuch Inventions having always been (like your Worſhips) God Commonwealths-Men, and Lovers of their King and Country, ſuch is the Approbation of</p>
+            <closer>
+               <salute>Worthy Sirs,</salute>
+               <signed>Your ever-Honouring Servant, <hi>Tho. Jordan.</hi>
+               </signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:63598:3" rendition="simple:additions"/>
+            <div type="poem">
+               <lg>
+                  <l>
+                     <hi>In proper Habits orderly Array'd,</hi>
+                  </l>
+                  <l>
+                     <hi>The Movements of the Morning are diſplay'd.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>
+                     <seg rend="decorInit">S</seg>Elected Citizens i'th'Morning all</l>
+                  <l>At Seven a Clock do meet at <hi>DRAPERS-HALL,</hi>
+                  </l>
+                  <l>The Maſter, Wardens, and Aſſiſtants, Joyns</l>
+                  <l>For the firſt Rank in their Gowns fac'd with Foyns.</l>
+                  <l>The Second Order do, in merry moods,</l>
+                  <l>March in Gowns fac'd with Budge and Livery Hoods.</l>
+                  <l>In Gowns and Scarlet Hoods Thirdly appears</l>
+                  <l>A youthful number of Foyns Batchellers.</l>
+                  <l>Forty Budge Batchellers the Triumph Crowns,</l>
+                  <l>Gravely attir'd in Scarlet Hoods and Gowns.</l>
+                  <l>Gentlemen Uſhers which white Staves do hold</l>
+                  <l>Sixty; in Velvet Coats and Chains of Gold.</l>
+                  <l>Next, Thirty more in Pluſh and Buff there are,</l>
+                  <l>That ſeveral Colours wave; and Banners bear.</l>
+                  <l>The Seargeant Trumpet Thirty ſix more brings,</l>
+                  <l>Twenty the Duke of <hi>YORK</hi>'s, Sixteen the <hi>KINGS.</hi>
+                  </l>
+                  <l>The Sergeant wears Two Scarfs, whoſe Colours be,</l>
+                  <l>One the Lord Mayors, t' other the Company.</l>
+                  <l>The King's Drum-Major follow'd by Four more</l>
+                  <l>Of the Kings Drums and Fifes make <hi>LONDON</hi> roar.</l>
+                  <l>Seven Drums and Two Fifes more in Veſts of Buff</l>
+                  <l>March which Waſte-Scarfs, and Breeches of Black Stuff.</l>
+                  <l>Two City Marſhals mounted and attended,</l>
+                  <l>Are by the Company with Scarfs befriended.</l>
+                  <l>And (next toth' Drums) do Troop it in the Reer.</l>
+                  <l>But the Foot Marſhal doth the next appear;</l>
+                  <l>Who puts them all in Rank and File, and wears</l>
+                  <l>A Shoulder Scarf as broad and rich as theirs.</l>
+                  <l>Attended by ſix perſons that dare do</l>
+                  <l>What e're their Marſhal may command them to.</l>
+                  <l>Next, the Fence-Maſter Troops; and (to defend him)</l>
+                  <l>Divers with drawn broad bright Swords do attend him.</l>
+                  <l>Many Poor Penſioners that march i'th' Rear,</l>
+                  <l>With Gowns and Caps, Standerds and Banners bear;</l>
+                  <l>A numerous Troop of Perſons that are poor,</l>
+                  <l>In Azure Gowns and Caps, one hundred more,</l>
+                  <l>With Javelins and with Targets are all Actors,</l>
+                  <l>And bear the Arms of their good Benefactors.</l>
+               </lg>
+               <lg>
+                  <pb n="2" facs="tcp:63598:4"/>
+                  <stage>Being thus prepar'd.</stage>
+                  <l>By the Foot-Marſhals Judgment they are guided,</l>
+                  <l>And into Six Diviſions are divided:</l>
+                  <l>Rank'd out by Two and Two. The firſt that ſtirs</l>
+                  <l>Are the poor Company of Penſioners;</l>
+                  <l>But in the front of them orderly be</l>
+                  <l>Placed the Enſigns of the Company.</l>
+                  <l>I'th' Rear of them four Drums and one Fife more,</l>
+                  <l>Then Penſioners in Coats deſcrib'd before.</l>
+                  <l>Perſons of worth who do in Martial manner,</l>
+                  <l>Bear each of them a Standard or a Banner.</l>
+                  <l>Four Trumpets more to them, and in their Rear</l>
+                  <l>Two of the <hi>Drapers</hi> Enſigns march, which bear</l>
+                  <l>(As by the Herald Painter is expreſt)</l>
+                  <l>The Draught of their Supporters and their Creſt:</l>
+                  <l>Six Gentlemen-Uſhers in order trudge,</l>
+                  <l>And after them the Batchelors in Budge:</l>
+                  <l>Marching in meaſur'd diſtance, and indu'd</l>
+                  <l>With Order, This Diviſion doth conclude.</l>
+                  <l>I'th the Rear of them ſix Trumpets do appear,</l>
+                  <l>And after them two Gentlemen, that bear</l>
+                  <l>Two Coats of Arms, which appertaining be</l>
+                  <l>To the City, and the <hi>Drapers</hi> Company.</l>
+                  <l>Then do march up Eight Gentlemen that wears</l>
+                  <l>The Golden Chains, then the Foins Batchelors,</l>
+                  <l>In amicable Meaſure, move like Friends</l>
+                  <l>Fill'd with one Joy: So this Diviſion ends.</l>
+                  <l>Two Gentlemen in velvet Coats array'd,</l>
+                  <l>March after them with Two Banners diſplay'd;</l>
+                  <l>Then ſucceed them Ten Gentlemen Uſhers more,</l>
+                  <l>In Coats and Chains of Gold deſcrib'd before;</l>
+                  <l>And gradually after them you'l ſee</l>
+                  <l>A very worthy large Society;</l>
+                  <l>With each of them a Gown and Livery Hood,</l>
+                  <l>And all LORD MAYORS in the <hi>Potential Mood.</hi>
+                  </l>
+                  <l>I'th Rear of theſe (with ſilver ſounds to fit ye)</l>
+                  <l>Do fall in divers Trumpets of the City;</l>
+                  <l>And after them Two Gentlemen accord</l>
+                  <l>To bear the Arms o'th' City and my Lord:</l>
+                  <l>And then the Gentlemen with equal diſtance</l>
+                  <l>That uſher in the grave Court of Aſſiſtants.</l>
+                  <pb n="3" facs="tcp:63598:4"/>
+                  <l>I'th' Rear of them, four Drums, ſix Trumpets, be</l>
+                  <l>Order'd to bring up the Cataſtrophe.</l>
+                  <l>Three Gallants gradually follow them,</l>
+                  <l>Bearing the Banners of the Diadem.</l>
+                  <l>Kings, Queens, and Cities Enſigns, which engages</l>
+                  <l>Six Gentlemen to wait on them as Pages;</l>
+                  <l>The Maſters and the Wardens bring up all.</l>
+                  <l>And thus equip'd they march from <hi>Drapers Hall</hi>
+                  </l>
+                  <l>To my Lords Houſe, which I preſume will be</l>
+                  <l>Where the laſt Lord Mayor kept his Mayoralty,</l>
+                  <l>At <hi>Grocers-Hall,</hi> where the Aldermen and He</l>
+                  <l>Take Horſe and Rank according to degree:</l>
+                  <l>Which being done, the whole Body in State</l>
+                  <l>Doth move towards <hi>Guild-Hall,</hi> but at the Gate
+<stage>Begin their Motion.</stage>
+                  </l>
+                  <l>The New Lord with the Old Lord Mayor unites,</l>
+                  <l>Guarded by Gentlemen, Eſquires, and Knights.</l>
+                  <l>Then thus attir'd with Gown, Fur, Hood and Scarf,</l>
+                  <l>March all through <hi>Kings ſtreet</hi> down to <hi>Three Crane-Wharf,</hi>
+                  </l>
+                  <l>Where the Lord Mayor and th' Aldermen diſcharge</l>
+                  <l>A few Gentlemen Waiters, and take Barge</l>
+                  <l>At the Weſt end o'th'Wharf; and at the Eaſt</l>
+                  <l>The Court Aſſiſtants, Livery, and the beſt</l>
+                  <l>Gentlemen Uſhers: Such as ſtay on ſhore</l>
+                  <l>Are Uſhers, Foins, and the Budge Batchelor:</l>
+                  <l>Who for a time repoſe themſelves and Men,</l>
+                  <l>Untill his Lordſhip ſhall return again:</l>
+                  <l>Who now with ſeveral Companies make haſt</l>
+                  <l>To <hi>Weſtminſter,</hi> but in the way is plac't</l>
+                  <l>A Pleaſure-Boat that hath great Guns aboard,</l>
+                  <l>And with Two Broad-ſides doth ſalute my Lord.</l>
+                  <l>They Row in Triumph all along by th' <hi>Strand,</hi>
+                  </l>
+                  <l>But when my Lord and Companies do Land</l>
+                  <l>At the New <hi>Palace-Stairs,</hi> orderly all</l>
+                  <l>Do make a Lane to Paſs him to the Hall;</l>
+                  <l>Where having taken an Oath that he will be</l>
+                  <l>Loyal and Faithfull to His MAJESTY,</l>
+                  <l>His Government, His Crown and Dignity,</l>
+                  <l>With other Ceremonials ſaid and done,</l>
+                  <l>In Order to his Confirmation;</l>
+                  <l>Sealing of Writs in Courts, and ſuch like things,</l>
+                  <l>As ſhew his power abſtracted from the King's,</l>
+                  <l>He takes his leave o'th' Lords and Barons, then</l>
+                  <l>With his Retinue he returns agen</l>
+                  <pb n="4" facs="tcp:63598:5"/>
+                  <l>To the Water-ſide, and (having given at large,</l>
+                  <l>To th' Poor of <hi>Weſtminſter</hi>) doth Re-imbarge,</l>
+                  <l>And ſcud along the <hi>River</hi> till he comes</l>
+                  <l>To <hi>Black Fryers-Stairs,</hi> where <hi>Guns</hi> and Thundring <hi>Drums</hi>
+                  </l>
+                  <l>Proclaim his Landing, when he's ſet on ſhore,</l>
+                  <l>He is ſaluted by three <hi>Vollies</hi> more</l>
+               </lg>
+               <p>By (the Military Gloty of this Nation,) the Company of <hi>Artillery-men,</hi> under the conduct of their Loyal Preſident Sir <hi>WILLIAM PRITCHARD,</hi> they being all in their Martial Ornaments of Gallantry, ſome in <hi>Buff</hi> with Head-pieces, many of them <hi>Maſſie Silver.</hi>
+               </p>
+               <p>From <hi>Black-Fryers-Stairs,</hi> they March before the Lord Mayor and Aldermen, through <hi>Cheapſide</hi> to <hi>Guild-Hall.</hi> Thoſe that went not to <hi>Weſt<g ref="char:EOLhyphen"/>minſter, viz.</hi> the <hi>Penſioners,</hi> and <hi>Banners</hi> being ſet in order ready to March, the <hi>Foot-Marſhal</hi> in the Rear of the <hi>Artillery-Company,</hi> leads the way by the Channel up <hi>Ludgate-hill,</hi> through <hi>Ludgate</hi> into S. <hi>Pauls Church yard,</hi> and ſo into <hi>Cheapſide,</hi> where his Lordſhip is entertained by the firſt <hi>Scene</hi> or <hi>Pageant,</hi> called the <hi>Chariot of Induſtry,</hi> deſcribed in this Metrical Mode.</p>
+            </div>
+            <div type="poem">
+               <head>The Firſt Pageant deſcrib'd in Verſe.</head>
+               <lg>
+                  <l>THe grand Deſign by good Invention wrought</l>
+                  <l>Is a bright Rich, Triumphant <hi>Chariot;</hi>
+                  </l>
+                  <l>As full of Fancy, Luſter and Delight,</l>
+                  <l>As HIS who was th'unfortunate Favourite:</l>
+                  <l>To bright <hi>Hyperion</hi> Son of the Sun,</l>
+                  <l>The Royal, Riſing, Wretched <hi>Phaeton;</hi>
+                  </l>
+                  <l>Who in his Fathers Chariot did Aſſay</l>
+                  <l>To guide the Sun till he had loſt the Day.</l>
+                  <l>Like ſome who did both Sword and <hi>Chariot</hi> draw</l>
+                  <l>Againſt good Nature, Piety and Law;</l>
+                  <l>To pull down and ſet up <hi>Et Cetera.</hi>
+                  </l>
+                  <l>But in our <hi>Chari<gap reason="illegible" resp="#MURP" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>t</hi> are no ſuch Sparks</l>
+                  <l>As burn the Skies to <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>eed on Roaſted Larks:</l>
+                  <l>For in this Ark is <hi>Innocence,</hi> Chaſt Women</l>
+                  <l>And Virgins, that preſent the Loyal <hi>Free-men</hi>
+                  </l>
+                  <l>Of our Twelve Companies, and therefore we</l>
+                  <l>Call it the <hi>Chariot of I<gap reason="illegible" resp="#MURP" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>uſtry.</hi>
+                  </l>
+                  <l>
+                     <hi>Metropolis</hi> the Spea<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>er, doth preſent</l>
+                  <l>This City in its Health, Wealth, Government.</l>
+                  <l>Theſe Royal <hi>Lions</hi> Pellued are twain,</l>
+                  <l>Who tho' they have been ſhot at, are not ſlain:</l>
+                  <pb n="5" facs="tcp:63598:5"/>
+                  <l>But in full Strength and Vigour, Power and Health,</l>
+                  <l>Can guide this Model of a Common-wealth;</l>
+                  <l>And will be Proſperous in ſpight of Woe,</l>
+                  <l>For tho' they are Pelleted, they are Golden too.</l>
+                  <l>If they had not been Gold from Heel to Head,</l>
+                  <l>It is preſum'd they'd ne're been Pelleted.</l>
+                  <l>And thus I have with brevity expreſt</l>
+                  <l>This Scene: The Speaker will deſcribe the reſt.</l>
+               </lg>
+            </div>
+            <div type="description">
+               <head>The Chariot of IND<g ref="char:V">Ʋ</g>STRY</head>
+               <p>IS Accommodated with twelve Virgins, Repreſenting the twelve firſt Companies, with ſignificant Names, Habits, Shields. <hi>Metropolis</hi> the Speaker, is a Majeſtick Maſculine Woman, ſitting on a Seat of Maioralty, like that of the <hi>Huſtings</hi> in <hi>Guild-Hall,</hi> thus Habited: A black curl'd Pe<g ref="char:EOLhyphen"/>ruke, and on it a Silver Helmet, with a large Plume of Feathers, Red, White, Green, Orange, and Blew, which are her Martial Habillaments. A Velvet Gown of Scarlet and Purple in pale equally divided. A bright Chain of Gold double about her ſhoulders, a Gold Scarf about her middle, deep fringed with Silver: In one Hand ſhe bears the City Sword, in the other, a large City Banner, Charged with the Arms of the Honourable City of <hi>London,</hi> thus Emblazon'd, Argent, St. <hi>George</hi> his Croſs of <hi>Eng<g ref="char:EOLhyphen"/>land,</hi> in Dexter Canton, a Dagger Gules, Supported by two Dragons Ar<g ref="char:EOLhyphen"/>gent, with Croſſes on the Wings, as the Coat. The Motto, <hi>Domine de<g ref="char:EOLhyphen"/>rige Nos.</hi>
+               </p>
+               <p n="1">1. The Firſt Company of the Supream Twelve, is the Right Worſhip<g ref="char:EOLhyphen"/>ful Corporation of <hi>Mercers,</hi> Repreſented by a Beautiful young Princely Virgin, called</p>
+               <p>
+                  <hi>Mercatura,</hi> with bright diſhevel'd Hair, on which is a Coronet of Gold, wearing a Silver Robe, a Mantle of Pink colour'd Sarcenet: In one Hand ſhe bears a Shield Gules, a demi-Virgin, her Hair tied with many-coloured ſmall Ribbon crown'd, iſſuing out and within an Orl of Clouds, all proper. In the other, the Kings Banner.</p>
+               <p n="2">2. <hi>Aromatoria.</hi> A Lady Repreſenting the Worſhipful Company of <hi>Grocers;</hi> brown Hair'd, on it a Silver Coronet ſprinkled with Cloves: A white Sattin Robe, a black Sarcenet Mantle fringed with Silver. In one Hand a Buckler Argent, charged with a Cheveron Gules, between nine Cloves Sable, Creſted with a Camel, OR, Supported by two Griſſons of the laſt. The Motto, <hi>God grant Grace.</hi>
+               </p>
+               <p n="3">3. <hi>Pannaria.</hi> A comely Female, prefigurating the Right Worſhipful Company of <hi>Drapers:</hi> In a Purple Robe, a Scarlet Mantle, a Wreath of Bays tipp'd with Gold; holding in one Hand an Eſcutcheon Azure, Three Clouds Irradiated proper, Three Sun-beams iſſuing out of them, with Three
+<pb n="6" facs="tcp:63598:6"/>Triple Crowns, OR: The Creſt a Ram, OR. The Supporters two Lions of the laſt, Pellited. The Motto, <hi>To God onely be Honour and Glory.</hi> Their Patroneſs, the Bleſſed Virgin. In the other, a Drapers Banner.</p>
+               <p n="4">4. <hi>Piſcaria,</hi> A Damſel in Sea-green and Silver, Perſonating the Wor<g ref="char:EOLhyphen"/>ſhipful Company of Fiſhmongers. In one Hand bearing a Shield, Azure, Three Dolphins Nai<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nt, in pale between two Lucies Saltier-wiſe, proper Crown'd, OR, on a Chief Gules, Three couples of Keys Croſs'd as the Crowns. The Creſt a Crown Imperial, elevated betwixt two Arms, Sup<g ref="char:EOLhyphen"/>ported by a Mare-man and a Mare-maid, he holding a Sword, and ſhe a Mirrour. The Motto, <hi>All Glory be to God onely.</hi>
+               </p>
+               <p n="5">5. <hi>Aurifera,</hi> Repreſenting the Worſhipful Company of <hi>Goldſmiths,</hi> in a Gold Robe, a Silver Mantle, long bright curled Hair, a Crown Imperial. In one Hand a Target charg'd with their Arms, Quarterly Gules and Azure. In the firſt and fourth, a Lions Head crazed OR. In the ſecond and third, a Cup covered between two Buckles of the laſt. Their Creſt Juſtice. In her right Hand a Balance, in h<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>r left a Touch-ſtone, Supported by two Uni<g ref="char:EOLhyphen"/>corns Argent. The Motto, as the Fiſhmongers. Their Patron St. <hi>Dunſtan.</hi> In the other hand, a Banner of the Goldſmiths.</p>
+               <p n="6">6. <hi>Pelicula,</hi> who Perſonateth the Right Worſhipful Company of Skinners, in a Robe of Ermine, a Mantle of Gold, fair Hair, an Imperial Crown, bearing a Target Ermine, on a Chief Gules, Three Crowns, OR, with Caps thereunto of the firſt. The Creſt a Leopard, with a Lawrel about his Neck, Supported by the like Leopard and a Fox. The Motto, <hi>To God only be all Glory.</hi> Their Patron, <hi>Corpus Chriſti.</hi> In her other Hand ſhe beareth a Banner of the ſame Company.</p>
+               <p n="7">7. <hi>Veſtiaria,</hi> Repreſenteth the Right Worſhipful Company of <hi>Merchant-Taylors,</hi> in a Robe of Searlet, a Puiple Mantle, bright brown Hair, Sea<g ref="char:EOLhyphen"/>green Coronet, on whoſe top is a Ship under Sail. On a Target ſhe bear<g ref="char:EOLhyphen"/>eth the Arms of the ſaid Company, thus, Argent, a Tent Royal between two Parliament Robes Gules, Lined Ermin, on a Chief Azure, a Lion Paſ<g ref="char:EOLhyphen"/>ſant Guardant, Or. The Creſt, the Holy Lamb in a Glory, Supported by two Camels. The Motto, <hi>Concordia Parvae Res Creſcunt.</hi> Their Patron St. <hi>John Baptiſt.</hi> In the other Hand, a Banner of the Company.</p>
+               <p n="8">8. <hi>Minutaria,</hi> Prefigurating the Worſhipſful Company of <hi>Haberdaſhers,</hi> in a Robe of Sky colour and Gold, a Mantle of divers colours, brown Hair, the Locks full tyed with ſundry ſorts of ſmall Ribbon of various co<g ref="char:EOLhyphen"/>lours, a gaudy Chaplet of divers delightful Howers: Bearing a Shield on, which is B<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rrey of Six Nebu<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ee Argent and Azure, on a Bend a Lion of <hi>England<g ref="char:punc">▪</g>
+                  </hi> The Creſt two Arms advancing a Catherine wheel, Supported by two Goats. Their Motto, <hi>Serve and Obey.</hi> Their Patroneſs St. <hi>Cathe<g ref="char:EOLhyphen"/>rine.</hi> The other Hand waveth a Banner of the Haberdaſhers.</p>
+               <p n="9">9. <hi>Salina,</hi> Repreſenteth the Worſhipful Company of <hi>Salters,</hi> in a Sky<g ref="char:EOLhyphen"/>colour'd Robe, a Carnation Mantle, both fringed with Gold, bright Hair,
+<pb n="7" facs="tcp:63598:6"/>a Chaplet of white and yellow Roſes, bearing in one Hand a Buckler, on which is <hi>Parte per Cheveron, Argent and Gules,</hi> Three covered Salts, Or, ſprinkling Argent. The Creſt an Arm lifting up a Salt, Or, with Salt iſſu<g ref="char:EOLhyphen"/>ing Argent, Supported by two Lions Sable, Pellited Argent, with two Co<g ref="char:EOLhyphen"/>ronets Chain'd, reflexing over their backs, Or, The Motto, <hi>Sal ſapit om<g ref="char:EOLhyphen"/>nia</hi> In his other Hand, a Banner of the Salters.</p>
+               <p n="10">10. <hi>Ferraria.</hi> Intimateth the Worſhipful Company of <hi>Iron-Mongers,</hi> bearing in one hand a Shield Argent; on a Cheveren Gules between Three Gads or pieces of Steel Azure, as many pair of Shackles or Manacles OR, This Virgin is inveſted with a Robe of Red Satten, a Gold Mantle tyed with a broad Mazerine Blew Ribon. A Banner of the ſame Company.</p>
+               <p n="11">11. <hi>Vinitioria.</hi> Repreſenteth the Worſhipful Company of <hi>Vintonners,</hi> in a Robe of White Silk, embroidred with Vines, Grapes, and Leaves, her hair dark brown, on which is a wreath of Grapes interwyerd with Leaves, as in the height of the Vintage; bearing on an Eſcutcheon the <hi>Vintonners</hi> Coat-Armorour Sable, a Cheveron between Three Tuns Argent, in her other hand a Banner of the City.</p>
+               <p n="12">12. <hi>Lanaria.</hi> A Noble Lady that perſonateth the Worſhipful Company of <hi>Cloath Workers,</hi> Arraied in a Robe of Black and Gold, A Silver Mantle, bright Hair, on it a Coronet of Golden Teazels, in one hand bearing a Target, containing their Arms thus blazoned, Sable, a Cheverine Ermine between Two Fabicks in chief, and a Teazle in Baſs, The Creſt a Ram, OR Supported by Two Pellited Gryphons of the ſame; The Motto, <hi>My Truſt is in God alone.</hi> In the other hand a Banner of the Company.</p>
+               <p>This <hi>Chariot of Induſtry</hi> is drawn by Two <hi>Lyons,</hi> OR pellited Sable, back'd by two choice Figures, the Emblems of <hi>Dominion</hi> and <hi>Triumph.</hi> On a Copious Stage (According to the Rites of Honour and priviledg of Antiquity) is erected the Royal Supporters of the Loyal <hi>Drapers,</hi> on the firſt Lyon rideth a Native Noble, young Oriential <hi>Indian Negro,</hi> Royally Array'd in a Scarlet Colour'd Silk Robe, intermix'd with Gold. A Purple Mantle interweaved with Silver and Gold, a Scymiter with a Golden Hilt and Chape by his ſide. A Golden Coronet richly Enjewell'd, Adorn'd with divers curiouſly colour'd and curl'd Oſtritch Feathers on his Head. A Purple and Gold Bridle in his Right Hand. And in his Left, the King of <hi>England's</hi> Banner deſigned for Dominion.</p>
+               <p>On the other Lyon is Mounted a <hi>Weſt-Indian Cacick</hi> or Lord, Inrobed in a Veſt of divers Colour'd Silk, interchequer'd with Gold and Silver, upon it a Gold and Silver Mantel; with Two Orient Jewels in his Fars. On his Head a Silver Crown with a Golden Sun in Front. A Bridle of Gold and Watchet Silk Ribon. In one Hand my Lord's Banner, in the other perſo<g ref="char:EOLhyphen"/>nating <hi>Triumph.</hi>
+               </p>
+            </div>
+            <div n="1" type="speech">
+               <pb n="8" facs="tcp:63598:7"/>
+               <head>
+                  <hi>Metropolis</hi> with Majeſtic Motion, Grandeur and Gravity Ad<g ref="char:EOLhyphen"/>dreſſeth to his Lordſhip in theſe following expreſſions.</head>
+               <head type="sub">The SPEECH.</head>
+               <lg>
+                  <l>
+                     <hi>THeſe Twelve fair Virgin Ladies with bright eyes,</hi>
+                  </l>
+                  <l>
+                     <hi>Do Repreſent</hi> LONDONS <hi>Twelve Companies:</hi>
+                  </l>
+                  <l>
+                     <hi>I am their Nurſing Mother, my Name is</hi>
+                  </l>
+                  <l>
+                     <hi>(And I am juſtly call'd)</hi> METROPOLIS:</l>
+                  <l>
+                     <hi>As very eminently may appear</hi>
+                  </l>
+                  <l>
+                     <hi>If you behold the Shields and Arms they bear.</hi>
+                  </l>
+                  <l>
+                     <hi>The Supream City: And my vaſt Command</hi>
+                  </l>
+                  <l>
+                     <hi>Exceeds all other Cities in the Land;</hi>
+                  </l>
+                  <l>
+                     <hi>For let me tell ye, without oſtentation,</hi>
+                  </l>
+                  <l>
+                     <hi>I'm a great</hi> City <hi>and a little</hi> Nation.</l>
+                  <l>
+                     <hi>All</hi> England <hi>hath a reliſh of my Bouties,</hi>
+                  </l>
+                  <l>
+                     <hi>I am th' Epitomy of all her Counties,</hi>
+                  </l>
+                  <l>
+                     <hi>And all the World beſide; For every Nation</hi>
+                  </l>
+                  <l>
+                     <hi>Doth mix with me in Trade and Converſation:</hi>
+                  </l>
+                  <l>
+                     <hi>But what doth to me greateſt Honour bring,</hi>
+                  </l>
+                  <l>
+                     <hi>I am the</hi> Royal Chamber <hi>of the</hi> King.</l>
+                  <l>
+                     <hi>And theſe Twelve Companies within my Gates</hi>
+                  </l>
+                  <l>
+                     <hi>Do yearly furniſh me with</hi> Magiſtrates.</l>
+                  <l>
+                     <hi>Twelve Companies of all the reſt are chief,</hi>
+                  </l>
+                  <l>
+                     <hi>And of the number Twelve, take this in brief,</hi>
+                  </l>
+                  <l>
+                     <hi>Twelve Hours twice told diſtinguiſh Night and Day,</hi>
+                  </l>
+                  <l>
+                     <hi>Twelve</hi> Caeſars <hi>of the</hi> Julian <hi>Line did ſway</hi>
+                  </l>
+                  <l>Rome's <hi>Empire, and in every caſe of ſtrife</hi>
+                  </l>
+                  <l>
+                     <hi>Were Actions Try'd, or if concerning Life</hi>
+                  </l>
+                  <l>
+                     <hi>Twelve make the</hi> Jury <hi>full. The</hi> Zodiack <hi>Lines</hi>
+                  </l>
+                  <l>
+                     <hi>Are likewiſe fill'd by Twelve</hi> Celeſtial Signs:</l>
+                  <l>
+                     <hi>Twelve Meeting-Houſes (if the Art do'nt err)</hi>
+                  </l>
+                  <l>
+                     <hi>Are Tennanted by the</hi> Aſtrologer.</l>
+                  <l>
+                     <hi>And the laſt Twelve concerns your Preſent State,</hi>
+                  </l>
+                  <l>
+                     <hi>Twelve Months you are to be our</hi> Magiſtrate:</l>
+                  <l>
+                     <hi>And may you proſper, and may no hurt come tree,</hi>
+                  </l>
+                  <l>
+                     <hi>For if you ſuffer wrong, Wo be to me.</hi>
+                  </l>
+                  <l>
+                     <hi>But I'm encouraged (and well I may)</hi>
+                  </l>
+                  <l>
+                     <hi>Since the moſt Wiſe and Loyaliſt Men ſay,</hi>
+                  </l>
+                  <l>
+                     <hi>That you'r well qualified for ſuch a Sway.</hi>
+                  </l>
+                  <l>
+                     <hi>That Virtues are in you as juſtly fixt</hi>
+                  </l>
+                  <l>
+                     <hi>As can in one good</hi> Magiſtrate <hi>be mixt.</hi>
+                  </l>
+                  <l>
+                     <hi>(A Copious expreſſion) yet you ſhall</hi>
+                  </l>
+                  <l>
+                     <hi>Not (with More Virtues) give content to all.</hi>
+                  </l>
+                  <pb n="9" facs="tcp:63598:7"/>
+                  <l>
+                     <hi>You'l never pleaſe the unconcocted, crude</hi>
+                  </l>
+                  <l>
+                     <hi>Conceptions of the motley multitude;</hi>
+                  </l>
+                  <l>
+                     <hi>That can in one, and in few hours cry</hi>
+                  </l>
+                  <l>
+                     <hi>Both</hi> Hallelujah <hi>and Crucify.</hi>
+                  </l>
+                  <l>
+                     <hi>The Lambs will like you, tho' the Wolves would tear ye,</hi>
+                  </l>
+                  <l>
+                     <hi>So good Men love, let Malefactors fear ye.</hi>
+                  </l>
+                  <l>
+                     <hi>When your Lambs loving Bleat will do no more,</hi>
+                  </l>
+                  <l>
+                     <hi>You know your Refuge, let your Lyons Roar:</hi>
+                  </l>
+                  <l>
+                     <hi>Therefore be juſt, do Right to every one</hi>
+                  </l>
+                  <l>
+                     <hi>That are your Suppliants, but humour none:</hi>
+                  </l>
+                  <l>
+                     <hi>You are the King's</hi> Vice-gerent, <hi>like Him do,</hi>
+                  </l>
+                  <l>
+                     <hi>He Rules by th' Laws o'th' Land: And ſo muſt you.</hi>
+                  </l>
+               </lg>
+               <p>The Speech being concluded, his Lordſhip giving no ſignals of his diſlike, we had cauſe enough to preſume that he was well enough pleaſed, for very ceremonially he made his <hi>Exit,</hi> and was not long engaged amongſt the Bryers, Brambles, and Thickets of the Multitude, but at laſt in the concluſion, in the medium of this Conſuſion, where every thing is in diſorder, he eſpies a piece of excellent Order.</p>
+            </div>
+            <div type="description">
+               <head>
+                  <hi>The Second Pageant called the</hi> Fabrick <hi>of</hi> FATE.</head>
+               <p>ADelightful Structure of curious Dimenſions, according to the compoſite order of Architecture, out of which the choiceſt parts are Collected and conjoyned in this famous Fabrick, for Elevation, Decoration, and Magnitude; Artfully Painted and Richly Gilded: On which are orderly ſeated divers Living Figures, diſtinctly diſpoſed into ſeveral Vicinities, perſonally Repreſenting the Heads of all Worldly Happineſs; <hi>viz.</hi> 1. <hi>Good Fortune.</hi> 2. <hi>Long Life.</hi> 3. <hi>Strength.</hi> 4. <hi>Riches.</hi> 5. <hi>Beauty.</hi> 6. <hi>Honour.</hi> 7. <hi>Liberty.</hi> 8. <hi>Pleaſure.</hi> 9. <hi>Fancy.</hi> 10. <hi>Agility.</hi> In theſe proper Habits.</p>
+               <p n="1">1. <hi>F<gap reason="illegible" resp="#MURP" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>une.</hi> In a long bright Curl'd lovely brown Hair. On it an Imperial Dia<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>em: In a Robe of Purple interweaved with Gold, Imbroidered with variety of precious Jewels. A Carnation and Silver Mantle, deeply fringed. In her Left hand a Shield Vert, charged with Crowns, Scepters, Globes, Myters, and Croſiers. OR, in her Right Hand a Wheel: In her Left Hand a Banner of the Kings.</p>
+               <p n="2">2. <hi>L<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>g-Life.</hi> With Black Hair, on it a Garland of Oaken-Leaves tipt with Gold. A Robe of Ivy-colour'd Satten Laced and Fringed with Gold. A Mantle of Silver and Orange Colour'd-Silk. In one Hand a Shield Argent, bearing an Elephant. In the other a Banner of my Lord Mayors.</p>
+               <p n="3">3. <hi>Strength.</hi> In Brown Hair. A Silver Helmet, on which is ſtuck a Tall Flouriſhing Plume of Red and White Feathers, conſiſting of a Sprig and divers Falls. A Veſt of Silver. About her Neck a Corſlet of Gold. Holding in one Hand a Shield OR: Charged with the Figure of <hi>Hercules Furens.</hi> In the other Hand a Bauner of the City.</p>
+               <p n="4">4. <hi>Riches</hi> In a long Black Curl'd Hair, on it a Coronet of Gold Richly Enjewell'd. A Cloth of Gold Robe. A Silver Mantle. And on his Shoulders a pair of large ſpread Silver Wings, tip'd with Purple, Scarlet, Blew, Orange, Green, and Gold. On a Shield Vert, the River <hi>Tagus Wavey</hi> OR, held in one Hand: In th'other the Companies Banner.</p>
+               <p n="5">5. <hi>Beauty.</hi> With ſair Hair. Black Eyes, and on her Head an Imperial Crown of Gold. On the top of it a Silver <hi>Cupid,</hi> winged and Armed OR. A Sea-green Robe. A Silver Mantle. And holding in one Hand a Smeld Azure Charged with Flames. In th'other a Banner of the Kings.</p>
+               <p n="6">6. <hi>Honour.</hi> In Black Hair. On it a Ducal Crown. A Purple Robe pouder'd with Stars of Gold. A Scarlet Colour'd Mantle Fring'd with Gold. In one Hand a Shield purpure charged with a Throne, OR. In the other hand a Banner of my Lords.</p>
+               <p n="7">
+                  <pb n="10" facs="tcp:63598:8"/>7. <hi>Liberty.</hi> In flaxen Hair: On it a Silver Robe. A Sky-colour and Gold Mantle, Fringed with Gold and Silver. In one Hand ſhe beareth a Target Azure, charged with a Golden Cage half open, and Birds flying out. In the other the City Banner.</p>
+               <p n="8">8. <hi>Pleaſure.</hi> In brown Curl'd Hair. On it, a Chaplet of ſeveral Colour'd Roſes. In a Robe of Carnation and Gold. A Sea-water Silk and Silver Mantle. In one Hand ſhe beareth an Eſcutcheon Gules, charged with two Dancing Mimmicks. A Banner of the <hi>Drapers.</hi>
+               </p>
+               <p n="9">9. <hi>Fancy.</hi> In Yellow Hair. A Flowry Chaplet. A Robe of various Colour'd Silk: Striped with Gold and Silver. A Bloſſom Colour'd Silk and Silver and Gold Mantle. <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n a Shield OR. She beareth a Cheveron Argent, between Three Parakeeto's proper. A Banner of the Kings.</p>
+               <p n="10">10. <hi>Agility.</hi> In long Curl'd Black Hair. A Coronet of divers Colour'd Feathers, a Robe of Peach-Bloſſom Silk and Silver. A Mantle of Sky-Colour'd Silk and Gold. A Target Azure, Charged with the Picture of a <hi>Mercury</hi> Volant, Argent, in one Hand: And in the other is diſplay'd the Cities Banner.</p>
+               <p>Theſe Ladies are in contention with Fortune, which of their Qualities doth moſt merit Preheminence: And are particularly Anſwer'd in Repartee, by the Goddeſs <hi>Fortune</hi> Vocally, <hi>In ſtilo Recitati<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>o.</hi>
+               </p>
+            </div>
+            <div type="song">
+               <head>SONG.</head>
+               <lg>
+                  <l>
+                     <hi>Fortune.</hi> I am the great Goddeſs</l>
+                  <l>That Governs the Bodies</l>
+                  <l>Of Mortals by Sea and by Land;</l>
+                  <l>What Men cannot hit</l>
+                  <l>By Strength Wealth and Wit,</l>
+                  <l>I do but with turning my Hand.</l>
+                  <l>Clo<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>s. <hi>Then ceaſe your contention, and ſilence your Brawl,</hi>
+                  </l>
+                  <l>
+                     <hi>Ye quarrel for nothing, 'tis</hi> Fortune <hi>doth all.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <head>2.</head>
+                  <l>
+                     <hi>Long-Life. Long-Life, Long-Life, Long-Life is a thing</hi>
+                  </l>
+                  <l>That pleaſes the Peſant and comforts the King:</l>
+                  <l>In luſty <hi>Long-Life</hi> there be many expedients,</l>
+                  <l>
+                     <hi>Long-Life</hi> is the promiſed reward of Obedients.</l>
+                  <l>
+                     <hi>Fortune.</hi> But when with Diſeaſes and Croſſes attended,</l>
+                  <l>They dayly do wiſh that their <hi>Long-Life</hi> was ended.</l>
+               </lg>
+               <lg>
+                  <head>3.</head>
+                  <l>
+                     <hi>Strength. Strength</hi> when 'tis well managed with Valour and Vigor,</l>
+                  <l>Subdues mighty Princes, and Rules them with Rigor;</l>
+                  <l>'Tis bold and Imperious; it ſtoutly indures,</l>
+                  <l>Makes Courtiers of Coblers, and Barons of Brewers:</l>
+                  <l>Turns Kingdoms to States. <hi>[Fort.]</hi> But when <hi>Fortune</hi> prohibits,</l>
+                  <l>Then down go the States-Men, and up go the Jibbets.</l>
+               </lg>
+               <lg>
+                  <head>4.</head>
+                  <l>
+                     <hi>Riches.</hi> 'Tis rare to be <hi>Rich,</hi> for in <hi>Riches</hi> Men find</l>
+                  <l>All things that are pleaſant for Body or Mind:</l>
+                  <l>It comprehends all things, 'tis Treaſure that Paints</l>
+                  <l>Rebellion, and gave a <hi>Long-Life</hi> to ſuch Saints.</l>
+                  <l>
+                     <hi>Fortune.</hi> But when they were drawn on a Sledge or a Cart,</l>
+                  <l>Wealth could not prevail. Saints and Angels muſt part.</l>
+                  <l>Chorus. <hi>Then ceaſe your contention, and ſilence your Brawl,</hi>
+                  </l>
+                  <l>
+                     <hi>For</hi> Riches <hi>hath Wings, and will fly from ye all.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <pb n="11" facs="tcp:63598:8"/>
+                  <head>4.</head>
+                  <l>
+                     <hi>Beauty.</hi> There is no ſuch Treaſure as bright <hi>Beauty</hi> brings,</l>
+                  <l>'Tis pleaſant to all, and it Captivates Kings:</l>
+                  <l>To Femals Fair Faces Men do all their Duty.</l>
+                  <l>
+                     <hi>Troy-Town</hi> is in Aſhes, burn'd down by a <hi>Beauty:</hi>
+                  </l>
+                  <l>
+                     <hi>Fortune.</hi> But after Ten Years ſpent in War for a Feather,</l>
+                  <l>The Town and the Trifle ly buried together.</l>
+                  <l>Chorus. <hi>Then ceaſe your contention,</hi> &amp;c.</l>
+               </lg>
+               <lg>
+                  <head>5.</head>
+                  <l>
+                     <hi>Honour.</hi> Men hazard <hi>Long-Life,</hi> Wealth, and <hi>Beauty</hi> for <hi>Honour,</hi>
+                  </l>
+                  <l>The Wealthieſt and Wiſeſt do all dote upon her;</l>
+                  <l>True <hi>Honour</hi>'s derived from Royal Relation:</l>
+                  <l>'Tis <hi>Honour</hi>'s the cauſe of this Days Celebration.</l>
+                  <l>
+                     <hi>Fortune.</hi> Your <hi>Honour</hi>'s miſtaken, for <hi>Fortunes</hi> Power ſuch is,</l>
+                  <l>She can make a Dairy-Wench riſe to a Dutcheſs.</l>
+                  <l>Chorus. Long-Life, <hi>Strength, and</hi> Beauty, <hi>and</hi> Honour <hi>muſt fall</hi>
+                  </l>
+                  <l>
+                     <hi>To nothing, but he that hath</hi> Fortune, <hi>hath all.</hi>
+                  </l>
+               </lg>
+               <p>This <hi>Song</hi> of contention concluding thus with Reconciliation, and the Goddeſs having got the Day by general Vote: In a well-pleaſed humour, with due Addreſſes making ap<g ref="char:EOLhyphen"/>plication to his Lordſhip, continueth the Characters of her own Grandeur and Drimacy, with proſtrate Submiſſion of all her Powers and Priviledges to be diſpoſed of at the good will and pleaſure of my Lord and Lady, for their Aſſiſtance in the Progreſs of their Years Government; exhibited in theſe congratulatory expreſſions.</p>
+            </div>
+            <div n="2" type="speech">
+               <head>The Second SPEECH.</head>
+               <lg>
+                  <l>
+                     <hi>THo' I am deck'd in a Myſterious Dreſs,</hi>
+                  </l>
+                  <l>
+                     <hi>My proper Name my Nature will expreſs;</hi>
+                  </l>
+                  <l>
+                     <hi>All men that know me, call me</hi> Good Succeſs:</l>
+                  <l>
+                     <hi>I am the Worldlings higheſt happineſs.</hi>
+                  </l>
+                  <l>
+                     <hi>The Shepherd's Shelter, and the Seaman's Gnard,</hi>
+                  </l>
+                  <l>
+                     <hi>Above his Skill, his Compaſs, or his Card;</hi>
+                  </l>
+                  <l>
+                     <hi>The Merchants Deity: The States-Mans Pride:</hi>
+                  </l>
+                  <l>
+                     <hi>The Souldiers Victory: the Drapers Guide.</hi>
+                  </l>
+                  <l>
+                     <hi>In all its turns of Trade, without me none,</hi>
+                  </l>
+                  <l>
+                     <hi>Bring any thing to right Perfection.</hi>
+                  </l>
+                  <l>
+                     <hi>Therefore I come to greet</hi> Londons Lord Mayor,</l>
+                  <l>
+                     <hi>And with my Benediction, Charm his Chayr;</hi>
+                  </l>
+                  <l>
+                     <hi>His Sword and Ballance: That no Plotting Zealot</hi>
+                  </l>
+                  <l>
+                     <hi>May wrong the Magiſtrate, the Prince or Prelate:</hi>
+                  </l>
+                  <l>
+                     <hi>And that his Twelve Months Regiment may be</hi>
+                  </l>
+                  <l>
+                     <hi>Bleſt in the Progreſs and Cataſtrophe.</hi>
+                  </l>
+                  <l>
+                     <hi>In order thereunto his Company</hi>
+                  </l>
+                  <l>
+                     <hi>The Gratulating</hi> Drapers <hi>have ſet free</hi>
+                  </l>
+                  <l>
+                     <hi>Their fruitful Love and Liberalitie,</hi>
+                  </l>
+                  <l>
+                     <hi>For this Days Triumph as an Omen good,</hi>
+                  </l>
+                  <l>
+                     <hi>And well begun by his own Brotherhood.</hi>
+                  </l>
+                  <pb n="12" facs="tcp:63598:9"/>
+                  <l>
+                     <hi>Theſe Goddeſſes which ſit on either hand,</hi>
+                  </l>
+                  <l>
+                     <hi>Are the chief Bleſſings of a Proſperous Land:</hi>
+                  </l>
+                  <l>Good Fortune, Long-Life, Strength, Wealth, Beauty, Honour,</l>
+                  <l>
+                     <hi>I have brought your Lady Sir, to wait upon her:</hi>
+                  </l>
+                  <l>Liberty, Fancy, Pleaſure, <hi>and</hi> Agility,</l>
+                  <l>
+                     <hi>Are likewiſe here, to perfect your Tranquility:</hi>
+                  </l>
+                  <l>Riches <hi>hath brought her</hi> Golden-Fleece, <hi>that ſhe</hi>
+                  </l>
+                  <l>
+                     <hi>May ſhed ſome Locks unto your Mayoralty:</hi>
+                  </l>
+                  <l>
+                     <hi>And now my Lord, I wiſh and Pray, thoſe Fates</hi>
+                  </l>
+                  <l>
+                     <hi>That Guard good Men, and guide juſt Magiſtrates,</hi>
+                  </l>
+                  <l>
+                     <hi>May be your Pilots, and ſo ſteer your Courſe,</hi>
+                  </l>
+                  <l>
+                     <hi>That Quick-Sands of deceipt, or Storms by Force</hi>
+                  </l>
+                  <l>
+                     <hi>May never hurt ye; But may proſperous Gales</hi>
+                  </l>
+                  <l>
+                     <hi>Of good Succeſs, at all times fill your Sails;</hi>
+                  </l>
+                  <l>
+                     <hi>That you in ſafety may run without rent</hi>
+                  </l>
+                  <l>
+                     <hi>Through Seas, by Rocks, o're Shelves of Government,</hi>
+                  </l>
+                  <l>
+                     <hi>In this Years Voyage, you are in judgment able,</hi>
+                  </l>
+                  <l>
+                     <hi>The City in this ſence is Navigable,</hi>
+                  </l>
+                  <l>
+                     <hi>The Anchor of Good-Hope hangs at your Cable.</hi>
+                  </l>
+               </lg>
+               <p>This Speech being ended, the Speaker of it commended. And his Lordſhip (well at<g ref="char:EOLhyphen"/>tended) makes way through the People, till he comes to <hi>Bow-Steeple,</hi> where being con<g ref="char:EOLhyphen"/>ducted, he is kindly obſtructed, not by Lions and Leopards, but by Hee and Shee Shep<g ref="char:EOLhyphen"/>herds; Who in Paſtoral Order, to the Mayor and Recorder, do Tweeten their Throats with Muſical Notes, where in Madrigal manner, with Scrip, Hook, and Banner, with Bag-pipe and Fiddle, and a Ram in the middle, with Courage undaunted, they chear<g ref="char:EOLhyphen"/>fully chant it. For on this Stage, which contains.</p>
+            </div>
+            <div type="description">
+               <head>The Third Pageant,</head>
+               <p>IS a Ruſtick Building, called a Grove, or Grotto, in which there ſit four couple of Princely Shepherds and Shepherdeſſes, whoſe Names and Habits do properly and di<g ref="char:EOLhyphen"/>ſtinctly appear in this following Deſcription.</p>
+               <p n="1">1. <hi>Mucedorus,</hi> A Shepherd, in an Aſh colour Silk and Silver Robe, a dark green and Gold Mantle, black Hair crown'd with a Chaplet of Water-Lillies, a Golden Scrip and Bottle, a Silver Sheep-hook in one Hand, and His Majeſties Banner in the other.</p>
+               <p n="2">2. <hi>Paſtora,</hi> In long curl'd flaxen Hair, on it a Garland of white and red Roſes, a Robe of graſs-green and Gold, a Mantle of white Silk and Silver, a Sheep-hook of Gold, with a Banner of the Company.</p>
+               <p n="3">3. <hi>Mirtillo,</hi> with brown Hair, en it a Chaplet of Meadow-flowers, a grey ſilk Robe laced with Gold, a Willow-green Mantle fringed with Silver, a Silver Hook, and a green Turkey Leather Scrip, with Howers, Knots, and Borders gilded, beating a Ban<g ref="char:EOLhyphen"/>ner of the Cities.</p>
+               <p n="4">4. <hi>Jeſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>mi<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>t,</hi> In yellow Hair, on it a Coronet of Violets, double Daiſies, and Daſſa<g ref="char:EOLhyphen"/>dils, a Robe of Poppinjay-green, fringed with Silver, a yellow ſilk Mantle ſringed with Gold, a Golden Sheep-hook, a blew Silk and Silver Scrip, with a Banner of my Lord Mayor's.</p>
+               <p n="5">5. <hi>
+                     <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ylvio,</hi> In black Hair, a Shepherds Hat turn'd up, with green and gold ſacing, a Robe of <hi>French</hi>-green <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ilk, and ſilver fringed-with grey and gold: A Silver Sheep-hook, a Scrip of red Velvet flouriſh'd with Artful leaves and Flowers in Gold, a Ban<g ref="char:EOLhyphen"/>ner of the Kings.</p>
+               <p n="6">
+                  <pb n="13" facs="tcp:63598:9"/>6. <hi>Dorinda,</hi> In bright-brown Hair, on which is a fine Straw Hat, turn'd up with Brimſtone-green Silk and Silver, with a double knot of Purple and Gold Ribbon, a Sea<g ref="char:EOLhyphen"/>green ſilk and ſilver Mantle: A Golden Sheep-hook in one Hand, in the other, a Ban<g ref="char:EOLhyphen"/>ner of the Company, bearing the Lamb.</p>
+               <p n="7">7. <hi>Tyter<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>,</hi> In a black Hair, a Hat turn'd up with Purple Silk and Gold, a double knot of Scarlet colour and Silver Ribbon, a Robe of Silk of the colour of Birch-tree-bark and Silver, a Mantle of Primroſe-colour and Gold. A Silver Scrip, a Golden Hook, bearing a Banner of the City.</p>
+               <p n="8">8. <hi>Coriſca,</hi> In long curl'd, bright-brown Hair, and on it a Shepherds Hat turn'd up with graſs-green Silk and Silver Facing, tyed with a double knot of Scarlet and Gold Ribbon, a Parrot-green and Gold Robe, an Orange-colour and Silver Scarf, a Silver Hook, and Banner of my Lords.</p>
+               <p>The Lamb is back'd by a young beautiful flaxen-hair'd Boy, wearing a Chaplet of Olive-branches, mixed with ſeveral delightful colour'd Flowers on his Head, a Sky<g ref="char:EOLhyphen"/>colour'd Silver Robe, a bloſſom-colour and Gold Mantle: On his ſhoulders are Wings of various colour'd Feathers, tipt with Silver and Gold. In his Leſt hand is a Carna<g ref="char:EOLhyphen"/>tion Silk and Silver Bridle, and in his Right hand the ſilver Trumpet Fame, with the Kings Banner, which upon the March he often ſoundeth.</p>
+               <p>The firſt ſilence that is broken; is by <hi>Mirtillo,</hi> a Shepherd, a Paſſionate <hi>Inamourato,</hi> in anſwer to his Friend, who had been labouring with Arguments to diſuade him from Love, telling him, that he miſpent his Time in that unprofitable Paſſion.</p>
+            </div>
+            <div type="song">
+               <head>A SONG.</head>
+               <lg>
+                  <head>1.</head>
+                  <l>TELL me not I my time miſpend,</l>
+                  <l>'Tis time loſt to reprove me:</l>
+                  <l>Purſue thou thine, I have my end,</l>
+                  <l>So <hi>Cloris</hi> onely love me.</l>
+               </lg>
+               <lg>
+                  <head>2.</head>
+                  <l>Tell me not others Flocks are full,</l>
+                  <l>Mine poor let them deſpiſe me,</l>
+                  <l>Who more abound in Milk and Wool,</l>
+                  <l>So <hi>Cloria</hi> onely prize me.</l>
+               </lg>
+               <lg>
+                  <head>3.</head>
+                  <l>Tyre other eaſier Ears with theſe</l>
+                  <l>Unappertaining Stories,</l>
+                  <l>He never feels the Worlds Diſeafe,</l>
+                  <l>That cares not for his Glories.</l>
+               </lg>
+               <lg>
+                  <head>4.</head>
+                  <l>For pity, thou that wiſer art,</l>
+                  <l>Whoſe thoughts lye wide of mine,</l>
+                  <l>Let me alone with my own Heart,</l>
+                  <l>And I'le ne'r envy thine.</l>
+               </lg>
+               <lg>
+                  <head>5.</head>
+                  <l>Nor blame whoever blames my wit,</l>
+                  <l>That ſeek no higher Prize,</l>
+                  <l>Than in unenvyed ſhades to ſit</l>
+                  <l>And ſing of <hi>Cloris</hi> Eyes.</l>
+               </lg>
+            </div>
+            <div type="description">
+               <head>Paſtor Fido, <hi>the Speaker, the great Shepherd, deſcrib'd</hi>
+               </head>
+               <p>In a Purple Robe laced with Gold, a Helmet-like Cap of Gold, turn'd up, and fa<g ref="char:EOLhyphen"/>ced with Ermine: In a broad blew and Silver Ribbon, hung about his Neck, is the Order of the Golden Fleece. A Golden Scarf croſs his Shoulder, a Silver and Gold Scrip, a Golden Sheep-hook in his Right Hand, and in his Left Hand a large Target, Charged with the Virgin in a Glory, the Drapers Patroneſs. Who riſing up out of his Seat, Saluteth my Lord with</p>
+            </div>
+            <div n="3" type="speech">
+               <head>The Third Speech.</head>
+               <lg>
+                  <l>
+                     <hi>WHen I conſider what it is to act</hi>
+                  </l>
+                  <l>
+                     <hi>A faithful Shepherd's part, and be exact</hi>
+                  </l>
+                  <l>
+                     <hi>In every Circumſtance of that vaſt Charge,</hi>
+                  </l>
+                  <l>
+                     <hi>If contemplat the Function at large,</hi>
+                  </l>
+                  <pb n="14" facs="tcp:63598:10"/>
+                  <l>
+                     <hi>And find that it doth rightly Repreſent</hi>
+                  </l>
+                  <l>
+                     <hi>In Model, every kind of Government.</hi>
+                  </l>
+                  <l>
+                     <hi>All Fathers, Maſters, (tho' of little Stocks)</hi>
+                  </l>
+                  <l>
+                     <hi>Are Shepherds, and their Families are Flocks.</hi>
+                  </l>
+                  <l>
+                     <hi>From violence they ſafely are immur'd,</hi>
+                  </l>
+                  <l>
+                     <hi>They'r led and fed, folded, preſerv'd, and cur'd.</hi>
+                  </l>
+                  <l>
+                     <hi>All Pious Prieſts are Shepherds (tho' the Fox</hi>
+                  </l>
+                  <l>
+                     <hi>And Wolves have been too buſie with their Flocks.)</hi>
+                  </l>
+                  <l>
+                     <hi>Gen'rals are Shepherds, tho' their Flocks do ſeem</hi>
+                  </l>
+                  <l>
+                     <hi>Like Lions to they'r Foes, their Sheep to them.</hi>
+                  </l>
+                  <l>
+                     <hi>Princes, tho' Crown'd, and Rob'd in rich array,</hi>
+                  </l>
+                  <l>
+                     <hi>Are Shepherds too of Flocks that go aſtray,</hi>
+                  </l>
+                  <l>
+                     <hi>And Paſture-proud, will hardly be content</hi>
+                  </l>
+                  <l>
+                     <hi>With their own, or any other Government</hi>
+                  </l>
+                  <l>
+                     <hi>For long continuance. If all this be true,</hi>
+                  </l>
+                  <l>
+                     <hi>May't pleaſe your Lord ſhip, you'r a Shepherd too</hi>
+                  </l>
+                  <l>
+                     <hi>Of numerous Flocks, and have a large Command</hi>
+                  </l>
+                  <l>
+                     <hi>Of Droves, from every County in the Land.</hi>
+                  </l>
+                  <l>
+                     <hi>With Vigilance and Prudence, and the Laws,</hi>
+                  </l>
+                  <l>
+                     <hi>Secure your Flock from the voracious Maws</hi>
+                  </l>
+                  <l>
+                     <hi>Of Wolves and little Foxes Teeth and Paws.</hi>
+                  </l>
+                  <l>
+                     <hi>But I am too bold, and deviate from the cauſe</hi>
+                  </l>
+                  <l>
+                     <hi>That brought me hither. I am come to be</hi>
+                  </l>
+                  <l>
+                     <hi>An Actor in your great Solemnity,</hi>
+                  </l>
+                  <l>
+                     <hi>For I do honour</hi> Londons <hi>Drapery.</hi>
+                  </l>
+                  <l>
+                     <hi>With me are come Shepherds and Shepherdeſſes,</hi>
+                  </l>
+                  <l>
+                     <hi>Who for this day, have put on their beſt Dreſſes.</hi>
+                  </l>
+                  <l>
+                     <hi>To wiſh much Joy, and pray that happy Fate</hi>
+                  </l>
+                  <l>
+                     <hi>May Proſper</hi> London's <hi>new-made Magiſtrate.</hi>
+                  </l>
+                  <l>
+                     <hi>That all may be <g ref="char:V">Ʋ</g>nited to Gods Glory,</hi>
+                  </l>
+                  <l>
+                     <hi>And leave thoſe non-ſenſe terms of Whigg and Tory.</hi>
+                  </l>
+                  <l>
+                     <hi>May our Contentions turn into Content,</hi>
+                  </l>
+                  <l>
+                     <hi>And terminate in this Years Government,</hi>
+                  </l>
+                  <l>
+                     <hi>Leſt as the</hi> Argonauts <hi>that went from</hi> Greece,</l>
+                  <l>
+                     <hi>Such come to us, and take our Golden Fleece.</hi>
+                  </l>
+               </lg>
+               <p>No ſooner was the Speech ended, but <hi>Mucedorus</hi> and <hi>Paſtora,</hi> the Amorous Shepherd and Shepherdeſs, Tune up their Voices, and breath out their Paſſions in this Paſtoral Dialogue,</p>
+            </div>
+            <div type="sonnet">
+               <pb n="15" facs="tcp:63598:10"/>
+               <head>The SONNET.</head>
+               <sp>
+                  <speaker>Mu.</speaker>
+                  <lg>
+                     <head>1.</head>
+                     <l>DId you not once <hi>Paſlora</hi> Vow</l>
+                     <l>You would Love none but me?</l>
+                  </lg>
+               </sp>
+               <sp>
+                  <speaker>Pa.</speaker>
+                  <lg>
+                     <l>I, but my Mother tells me now</l>
+                     <l>I muſt Love Wealth, not thee.</l>
+                  </lg>
+               </sp>
+               <sp>
+                  <speaker>Mu.</speaker>
+                  <lg>
+                     <head>2. &amp; 3.</head>
+                     <l>'Tis not my fault my Sheep are Lean,</l>
+                     <l>Or that they are ſo few;</l>
+                  </lg>
+               </sp>
+               <sp>
+                  <speaker>Pa.</speaker>
+                  <lg>
+                     <l>Nor mine I cannot Love ſo mean</l>
+                     <l>So poor a thing as you.</l>
+                  </lg>
+                  <lg>
+                     <l>
+                        <milestone type="tcpmilestone" unit="unspecified" n="3"/> For Shepherd think how Rich my Dower</l>
+                     <l>Is in reſpect of thine;</l>
+                  </lg>
+               </sp>
+               <sp>
+                  <speaker>Mu.</speaker>
+                  <l>Cruel! thy Love is in thy power,</l>
+                  <l>Fortune is not in mine.</l>
+               </sp>
+               <sp>
+                  <speaker>Pa.</speaker>
+                  <lg>
+                     <head>4.</head>
+                     <l>Ay me! Ay me! <hi>[Mu.]</hi> Mock'ſt thou my grief?</l>
+                  </lg>
+               </sp>
+               <sp>
+                  <speaker>Pa.</speaker>
+                  <l>I pity thy hard Fate;</l>
+               </sp>
+               <sp>
+                  <speaker>Mu.</speaker>
+                  <lg>
+                     <l>Pity for Love is poor relief,</l>
+                     <l>I'd rather chooſe thy hate.</l>
+                  </lg>
+               </sp>
+               <sp>
+                  <speaker>Pa.</speaker>
+                  <lg>
+                     <head>5.</head>
+                     <l>I can no longer bear thy woes,</l>
+                     <l>But ſhall henceforth endeavour.</l>
+                     <l>To bring thee comfort in the cloſe,</l>
+                     <l>And be thy own for ever.</l>
+                  </lg>
+               </sp>
+               <lg>
+                  <head>
+                     <hi>Chorus</hi> (6.) <hi>in Two Voices.</hi>
+                  </head>
+                  <l>
+                     <hi>Bare Witneſs then you powers above</hi>
+                  </l>
+                  <l>
+                     <hi>Of theſe our Wedlock Bands,</hi>
+                  </l>
+                  <l>
+                     <hi>Let it appear that trueſt Love</hi>
+                  </l>
+                  <l>
+                     <hi>Lies not in Wealth or Lands.</hi>
+                  </l>
+               </lg>
+               <p>At the concluſion of the Speech, my Lord departeth well pleaſed, and with his Reverend Retinue proceedeth in his Progreſs towards <hi>Guild-Hall,</hi> but is once more intercepted by a</p>
+            </div>
+            <div type="description">
+               <head>Fourth PAGEANT.</head>
+               <p>CAlled the <hi>Downs of Delight,</hi> where are divers poor Shepherds and Shepherdeſſes Singing, Dancing, Piping, Vaulting, Tumbling, with all the Accompliſhments of a Paſtoral Scene of Drolls; and the old Spyder, (I mean Spynner) at her woollen Wheel; whilſt the Carders claw it away: And every perſon in the Scene ſtrives with one another, who ſhall be moſt eminent in the curioſity of confuſion, and dignity of diſorder. The obſervation of which ſent my Lord away in a fit of Laughter, which laſted till he came to <hi>Grocers-Hall.</hi>
+               </p>
+               <pb n="16" facs="tcp:63598:11"/>
+               <p>The Foot Marſhal having placed the Aſſiſtants, Livery, and the Companies on both ſides of <hi>King-ſtreet,</hi> and the Penſtoners with their Targets hung at the tops of their Javelins: In the Rear of them: The Enſign-Bearers, Drums and Fiſes in the Front, haſtens the <hi>Foyns</hi> and <hi>Budge-Batchelors,</hi> together with the Gentlemen Uſhers to <hi>Grocers-Hall,</hi> where his Lordſhip is again ſaluted by the <hi>Artillery-Men</hi> with Three Vollies more, which concludes their Duty. His Land Attendants paſs through the Gallery or Lane, ſo made, into <hi>Grocers-Hall:</hi> After which the Company repairs to Dinner in the Hall; and the ſeveral Silkworks and Triumphs are likewiſe conveyed into <hi>Blaskwell-Hall,</hi> and the Officers aſoreſaid, and the Children that ſit in the Pagents, there refreſh them<g ref="char:EOLhyphen"/>ſelves untill his Lordſhip hath Dined at <hi>Grocers-Hall.</hi>
+               </p>
+               <p>But I muſt attend my Lord at Dinner in the Hall, and give an account of the delightful Diligence, with the jocal Accompliſhments and performances of the harmonical Cele<g ref="char:EOLhyphen"/>bration.</p>
+               <p>His Honour and his numerous Gueſts being orderly placed: The Ingenious Muſicians begin to Tune their Inſtruments, with Artful and active Fingers, and after a conſort Leſſon or two being play'd, and their Ears as well ſeaſted with double Reliſhes as their Palats: A perſon of an excellent Voice Sings the following Song. <hi>To the Tune of State and Ambition.</hi>
+               </p>
+            </div>
+            <div type="poem">
+               <head>
+                  <hi>A Welcome-home to the</hi> KING <hi>and</hi> DUKE, <hi>upon Their Return from</hi> Newmarket, <hi>October</hi> 23, 1684. <hi>and paſſing through the City.</hi>
+               </head>
+               <lg>
+                  <l>BElls Ring, and Bonſires Blaze, high Huzza's Sounded,</l>
+                  <l>The Trimmers in a maze, and Whigs Confounded;</l>
+                  <l>Some Sing, and Drink and Rant, tell me the reaſon on't,</l>
+                  <l>That they with ſuch a ſlaunt in Healths are drounded.</l>
+                  <l>Shew me the meaning from one to the other,</l>
+                  <l>That I may have reaſon and cauſe to comply;</l>
+                  <l>Our Gracious King CHARLES and His Royal brave Brother,</l>
+                  <l>Came through the City in great Majeſty.</l>
+               </lg>
+               <lg>
+                  <l>The Preaching and Praying, and Piſtoling Zealots,</l>
+                  <l>Their Plots are diſcover'd tho' carried ſo cloſe;</l>
+                  <l>'Tis God that Protects both the Prince and the Prelat;</l>
+                  <l>
+                     <hi>Si deus Nobiſcum, quis contra nos.</hi>
+                  </l>
+                  <l>
+                     <hi>Guild-Hall</hi> yields no Ryots, the Rabbles are Baniſh'd,</l>
+                  <l>The King, Duke, and City, one Government ſteers,</l>
+                  <l>Tub-Doctors are ſtlene'd, and tumults are Vaniſh'd;</l>
+                  <l>As Vapours diſperſe when <hi>Apollo</hi> appears.</l>
+               </lg>
+               <p>Dinner being ended and Night approaching, the Gueſts take leave of his Lordſhip, and depart to their ſeveral Habitations.</p>
+            </div>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:63598:11" rendition="simple:additions"/>
+         </div>
+      </body>
+   </text>
+</TEI>
